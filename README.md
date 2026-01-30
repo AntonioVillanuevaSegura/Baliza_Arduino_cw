@@ -9,3 +9,5 @@ Debug RS232
 
 Link a la simulacion con el codigo C++ modificado 
 https://wokwi.com/projects/454496346094658561
+
+https://github.com/AntonioVillanuevaSegura/Baliza_Arduino_cw/blob/main/DOC/balizaCOLOR.pdf
