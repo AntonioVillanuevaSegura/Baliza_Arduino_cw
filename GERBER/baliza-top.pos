@@ -1,0 +1,36 @@
+### Module positions - created on sam. 31 janv. 2026 15:57:24 ###
+### Printed by Pcbnew version 6.0.11+dfsg-1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                                                   PosX       PosY       Rot  Side
+A1        Arduino_Nano_v3.x  Arduino_Nano                                          139.7000   -69.8500    0.0000  top
+C1        1uf                CP_Radial_D5.0mm_P2.00mm                              109.2200   -68.5800   90.0000  top
+C2        100nf              C_Disc_D4.7mm_W2.5mm_P5.00mm                          118.1500   -68.5800    0.0000  top
+C3        100nf              C_Disc_D4.7mm_W2.5mm_P5.00mm                          129.5200   -96.4800   90.0000  top
+C4        1uf                CP_Radial_D5.0mm_P2.00mm                              161.2900   -64.7700  180.0000  top
+C5        100nf              C_Disc_D4.7mm_W2.5mm_P5.00mm                          160.0200   -77.4300   90.0000  top
+D1        1N4007             D_DO-41_SOD81_P10.16mm_Horizontal                     116.8400   -99.0600   90.0000  top
+D2        1N4007             D_DO-41_SOD81_P10.16mm_Horizontal                     116.8400   -82.5500   90.0000  top
+D3        1N4148             D_DO-35_SOD27_P7.62mm_Horizontal                      124.4600   -58.4200    0.0000  top
+D4        LED                LED_D5.0mm                                            130.8100   -69.2100  -90.0000  top
+D5        LED                LED_D5.0mm                                            130.8100   -79.3700  -90.0000  top
+D6        LED                LED_D5.0mm                                            123.1900   -83.1800  -90.0000  top
+J1        ALIMENTACION       TerminalBlock_RND_205-00001_1x02_P5.00mm_Horizontal   142.2400   -58.4200  180.0000  top
+J2        PTT                TerminalBlock_RND_205-00001_1x02_P5.00mm_Horizontal    97.8300  -114.8000    0.0000  top
+J3        AUDIO              TerminalBlock_RND_205-00001_1x02_P5.00mm_Horizontal   109.2600  -114.8000    0.0000  top
+J4        VCC_13v8_ENTRADA   TerminalBlock_RND_205-00001_1x02_P5.00mm_Horizontal   102.8700   -58.4200  180.0000  top
+JP1       apagado_1          PinHeader_1x02_P2.54mm_Vertical                       124.4600  -115.5700  180.0000  top
+JP2       apagado_2          PinHeader_1x02_P2.54mm_Vertical                       129.5400  -115.5700  180.0000  top
+JP3       apagado_3          PinHeader_1x02_P2.54mm_Vertical                       134.6200  -115.5700  180.0000  top
+JP4       RESET              PinHeader_1x02_P2.54mm_Vertical                       135.8900   -70.4850  180.0000  top
+K1        SRD-05VDC-SL-C     Relay_SPDT_Finder_36.11                               112.1900   -95.2500  180.0000  top
+K2        SRD-05VDC-SL-C     Relay_SPDT_Finder_36.11                               112.1900   -78.7400  180.0000  top
+Q1        2N3904             TO-92_Inline                                          123.1900   -93.9800   90.0000  top
+Q2        2N3904             TO-92_Inline                                          121.9200   -72.3900  -90.0000  top
+R1        330                R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal      125.7300   -76.2000    0.0000  top
+R2        330                R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal      134.6200   -97.7900   90.0000  top
+R3        680                R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal      135.8900   -82.5500   90.0000  top
+R4        680                R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal      136.5250   -85.0900  180.0000  top
+R5        680                R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal      136.5250   -88.2650  180.0000  top
+U1        L7805              TO-220-3_Vertical                                     118.1100   -64.4450    0.0000  top
+## End

@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "6.0.11+dfsg-1"
     },
-    "CreationDate": "2026-01-30T16:23:38+01:00"
+    "CreationDate": "2026-01-31T15:55:08+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "baliza",
       "GUID": "62616c69-7a61-42e6-9b69-6361645f7063",
-      "Revision": "rev?"
+      "Revision": "2"
     },
     "Size": {
       "X": 76.3,
