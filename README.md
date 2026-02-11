@@ -7,11 +7,9 @@ Debug RS232
 
 ( entre comentarios esta el codigo para modo real , no simulacion ,  no probado )
 
-Link a la 1era simulacion con el codigo C++ modificado 
+Link a simulacion con el codigo C++ modificado 
 https://wokwi.com/projects/454496346094658561
 
-Link 2a. Simulacion PCB 
-https://wokwi.com/projects/454496346094658561
 
 ![Render BalizaCw](https://github.com/AntonioVillanuevaSegura/Baliza_Arduino_cw/blob/main/DOC/balizaCOLOR_v2.png)
 ![Render BalizaCw](https://github.com/AntonioVillanuevaSegura/Baliza_Arduino_cw/blob/main/DOC/tarjeta.png)
